@@ -10,7 +10,7 @@
   },
   "developer": {
     "name": "Piotr Zalewa",
-    "url": "http://jsfiddle.net"
+    "url": "http://piotr.zalewa.info"
   },
   "installs_allowed_from": ["*"],
   "appcache_path": "/cache.manifest",
